@@ -6,7 +6,8 @@ Welcome to my data science portfolio GitHub repository! As a passionate beginner
  * **Description**: This model predicts whether our loan would be approved (1) or Rejected (0) based on several features.  
  * **Models used**: Logistic Regression, XGboost, DecisionTrees, RandomForest, KNN  
  * **Results**: XGboost and RandomForest gave the best results (97% accuracy)
-2) [Wine Quality Prediction](https://nbviewer.org/github/AdamFeddoui/Data_Science_Projects/blob/1ecdd6b839fb2b5e209b3d5d57234cbdc5ebfa65/Wine%20Quality%60/winequality_class.ipynb)
+
+2)**[Wine Quality Prediction](https://nbviewer.org/github/AdamFeddoui/Data_Science_Projects/blob/1ecdd6b839fb2b5e209b3d5d57234cbdc5ebfa65/Wine%20Quality%60/winequality_class.ipynb)**
  * **Description**: This model predicts whether our Wine has a good quality ( 1) or a bad one (0)
  * **Models used**: Logistic Regression, XGboost, DecisionTrees, RandomForest, KNN  
  * **Results**: XGboost and RandomForest gave the best results (85% accuracy)
